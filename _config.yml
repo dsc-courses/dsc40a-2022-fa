@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
    Campuswire:
-     - '#'
+     - 'https://campuswire.com/c/GFD9CE86C/feed'
    Gradescope:
-     - '#'
+     - 'https://www.gradescope.com/courses/447018'
    DataHub:
     - 'https://datahub.ucsd.edu'
 footer_content:
