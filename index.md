@@ -19,7 +19,7 @@ seo:
 
 <!-- [Lecture Recordings](https://podcast.ucsd.edu/watch/fa21/dsc40a_a00){: .btn .btn-blue } [Assignment Solutions](https://campuswire.com/c/GF82D3B2E/feed/73){: .btn .btn-purple }-->
 
-Welcome! This site is still under construction.
+
 
 {% for module in site.modules %}
 {{ module }}
