@@ -8,10 +8,12 @@ seo:
   name: Just the Class
 ---
 
-# {{ site.tagline }} 🧠
+# {{ site.tagline }} 🥑
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
+
+| 🎉 <span style='color:Blue'><b>Welcome to the Fall 2022 offering of DSC 40A!</b></span> <br> This site is still under construction, information are subject to change.
 
 {{ site.staffersnobio }}
 
