@@ -14,6 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 | 🎉 <span style='color:Blue'><b>Welcome to the Fall 2022 offering of DSC 40A!</b></span> <br> This site is still under construction, information are subject to change.
+| ❗ <span style='color:Blue'><b>Important note on the discussion sessions:</b></span> <br> The first discussion session will be on Monday, October 3rd 2022.
 
 {{ site.staffersnobio }}
 
