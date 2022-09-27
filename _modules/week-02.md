@@ -1,6 +1,6 @@
 ---
-    title: Week 1 – Gradient Descent📈
-    weekNumber: 1
+    title: Week 2 – Gradient Descent📈
+    weekNumber: 2
     days:
       - date: 2021-10-3
         events:
