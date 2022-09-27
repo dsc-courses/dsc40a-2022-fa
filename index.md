@@ -18,7 +18,7 @@ seo:
 
 {{ site.staffersnobio }}
 
-[Lecture Recordings](https://podcast.ucsd.edu/){: .btn .btn-pink } 
+[Lecture Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } 
 
 <!-- [Assignment Solutions](https://campuswire.com/c/GF82D3B2E/feed/73){: .btn .btn-purple } -->
 
