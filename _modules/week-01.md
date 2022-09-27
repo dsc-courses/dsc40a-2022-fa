@@ -4,7 +4,7 @@
     days:
       - date: 2021-9-26
         events:
-          "**LEC 2**{: .label .label-lecture } [Minimizing Mean Absolute Error (available after lecture)](resources/lecture/lec02_son_annotated.pdf)":
+          "**LEC 2**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lecture/lec02_son_annotated.pdf)":
             "[C1, P5-9](resources/notes/notes_chapter_1.pdf#page=5)"
       - date: 2021-9-28
         events:
