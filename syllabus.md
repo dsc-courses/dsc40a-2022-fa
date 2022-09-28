@@ -109,7 +109,7 @@ To summarize, here's what a typical week will look like in the course (note that
 | Lecture |  | Lecture  |  |  Lecture |
 | Discussion/Groupwork  |  |  |  |  |
 |  |  |  | Release next week's Groupwork | Release next week's Homework |
-|  | **Groupwork due @ 11:59pm**| |  | **Homework due @ 2pm**|
+|  **Groupwork due @ 11:59pm**| | |  | **Homework due @ 2pm**|
 
 
 ---

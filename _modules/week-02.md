@@ -9,10 +9,8 @@
           "**LEC 5 Mahdi**{: .label .label-lecture } ":
 
           "**DISCUSSION 1**{: .label .label-disc }":
-      
-      - date: 2021-10-4
-        events:
           "**GROUP1 DUE**{: .label .label-due }" :
+          
       - date: 2021-10-5
         events:
           "**LEC 6 Son**{: .label .label-lecture } ":
