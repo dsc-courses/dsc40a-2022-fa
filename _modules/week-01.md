@@ -11,7 +11,7 @@
       - date: 2021-9-28
         events:
           "**LEC 3 Son**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_son.pdf), filled":
-          "**LEC 3 Mahdi**{: .label .label-lecture } MSE and Empirical Risk Minimization, filled":
+          "**LEC 3 Mahdi**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_mahdi.pdf), filled":
       
       - date: 2021-9-30
         events:
