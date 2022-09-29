@@ -8,8 +8,8 @@
             
           "**LEC 5 Mahdi**{: .label .label-lecture } ":
 
-          "**DISCUSSION 1**{: .label .label-disc }":
-          "**GROUP1 DUE**{: .label .label-due }" :
+          "**DISCUSSION 1**{: .label .label-disc } Discussion 1":
+          "**GROUP1 DUE**{: .label .label-due } [Groupwork 1 Write-up](/resources/groupwork/gw1.pdf)" :
           
       - date: 2021-10-5
         events:
