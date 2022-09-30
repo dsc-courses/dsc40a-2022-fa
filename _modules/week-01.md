@@ -11,7 +11,7 @@
       - date: 2022-9-28
         events:
           "**LEC 3 Son**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_son.pdf), [filled](resources/lecture/lec03_son_annotated.pdf)":
-          "**LEC 3 Mahdi**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_mahdi.pdf), filled":
+          "**LEC 3 Mahdi**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_mahdi.pdf), [filled](resources/lecture/lec03_mahdi_annotated.pdf)":
       - date: 2022-9-29
         events:
           "**Group1 OUT**{: .label .label-assign } [Groupwork 1 Write-up](/resources/groupwork/gw1.pdf)":
@@ -19,7 +19,7 @@
       - date: 2022-9-30
         events:
           "**LEC 4 Son**{: .label .label-lecture } [Spread, Other Loss Functions, Gradient Descent](resources/lecture/lec04_son.pdf), filled" :
-          "**LEC 4 Mahdi**{: .label .label-lecture }[Spread, Other Loss Functions, Gradient Descent](resources/lecture/lec04_mahdi.pdf), filled" :
+          "**LEC 4 Mahdi**{: .label .label-lecture }[Spread, Other Loss Functions](resources/lecture/lec04_mahdi.pdf), filled" :
           "**HW1 OUT**{: .label .label-assign } Homework 1 Write-up":
             
 ---
