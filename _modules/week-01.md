@@ -20,6 +20,6 @@
         events:
           "**LEC 4 Son**{: .label .label-lecture } [Spread, Other Loss Functions, Gradient Descent](resources/lecture/lec04_son.pdf), filled" :
           "**LEC 4 Mahdi**{: .label .label-lecture }[Spread, Other Loss Functions](resources/lecture/lec04_mahdi.pdf), filled" :
-          "**HW1 OUT**{: .label .label-assign } Homework 1 Write-up":
+          "**HW1 OUT**{: .label .label-assign } [Homework 1 Write-up](resources/homework/hw1.pdf)":
             
 ---
