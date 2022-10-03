@@ -13,7 +13,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-| 🎉 <span style='color:Blue'><b>Welcome to the Fall 2022 offering of DSC 40A!</b></span> <br> This site is still under construction, information are subject to change.
+| ❗❗❗ <span style='color:Blue'><b>Important Updates on HW1!</b></span> <br> We made some minor changes on HW1 write-up, more information could be found [here](https://campuswire.com/c/GE36D51A4/feed/43). The updated version is aviliable on the course website around 8:15 pm Oct 2nd. If you download the write-up prior to this time, please check out the Campuswire post carefully.
 | ❗ <span style='color:Blue'><b>Important note on the discussion sessions:</b></span> <br> The first discussion session will be on Monday, October 3rd 2022.
 
 {{ site.staffersnobio }}
