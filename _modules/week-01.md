@@ -19,7 +19,7 @@
       - date: 2022-9-30
         events:
           "**LEC 4 Son**{: .label .label-lecture } [Spread, Other Loss Functions, Gradient Descent](resources/lecture/lec04_son.pdf), [filled](resources/lecture/lec04_son_annotated.pdf)" :
-          "**LEC 4 Mahdi**{: .label .label-lecture }[Spread, Other Loss Functions](resources/lecture/lec04_mahdi.pdf), filled" :
+          "**LEC 4 Mahdi**{: .label .label-lecture }[Spread, Other Loss Functions](resources/lecture/lec04_mahdi.pdf), [filled](resources/lecture/lec04_mahdi_annotated.pdf)" :
           "**HW1 OUT**{: .label .label-assign } [Homework 1 Write-up](resources/homework/hw1_corrected.pdf)":
             
 ---
