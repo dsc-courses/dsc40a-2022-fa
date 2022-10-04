@@ -6,7 +6,9 @@
         events:
           "**LEC 5 Son**{: .label .label-lecture } [Gradient Descent and Convexity](resources/lecture/lec05_son.pdf), Annotated":
             
+
           "**LEC 5 Mahdi**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05_mahdi.pdf), [Annotated](resources/lecture/lec05_mahdi_annotated.pdf)":
+
 
           "**DISCUSSION 1**{: .label .label-disc } Discussion 1":
           "**GROUP1 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :

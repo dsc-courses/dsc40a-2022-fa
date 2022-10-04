@@ -40,7 +40,7 @@ But how do we learn from data? This is the central question of DSC 40A. We will 
 
 ## Communication 💬
 
-This quarter, we'll be using [Campuswire](https://campuswire.com/c/GE36D51A4/feed) as our course message board. Campuswire is like Piazza, but unlike Piazza, You will be added to Campuswire automatically; email Suraj ASAP if you're not able to access it, as we'll be making all course announcements through it.
+This quarter, we'll be using [Campuswire](https://campuswire.com/c/GE36D51A4/feed) as our course message board. Campuswire is like Piazza, but unlike Piazza, You will be added to Campuswire automatically; email us ASAP if you're not able to access it, as we'll be making all course announcements through it.
 
 If you have a question about anything to do with the course — if you're stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Campuswire. We only ask that if your question includes some or all of an answer, please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
 
