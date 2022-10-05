@@ -118,7 +118,7 @@ To summarize, here's what a typical week will look like in the course (note that
 
 There will be two exams this quarter:
 
-- Midterm: TBD
+- Midterm: 10/28/2022, during lecture time.
 - Final: 12/03/2022, 7:00pm-9:59pm (shown on webreg)
 
 The Midterm Exam will be worth 20% of your overall course grade and will only cover content from Lectures TBD. The Final Exam will be worth 30% of your overall course grade and will be cumulative.
