@@ -15,8 +15,8 @@
           
       - date: 2022-10-5
         events:
-          "**LEC 6 Son**{: .label .label-lecture } ":
-          "**LEC 6 Mahdi**{: .label .label-lecture } ":
+          "**LEC 6 Son**{: .label .label-lecture } [Simple Linear Regression](recourses/lecture/lec06_son.pdf)":
+          "**LEC 6 Mahdi**{: .label .label-lecture } Simple Linear Regression":
       
       - date: 2022-10-7
         events:
