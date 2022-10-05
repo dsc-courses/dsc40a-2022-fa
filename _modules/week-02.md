@@ -8,15 +8,13 @@
             
 
           "**LEC 5 Mahdi**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05_mahdi.pdf), [Annotated](resources/lecture/lec05_mahdi_annotated.pdf)":
-
-
           "**DISCUSSION 1**{: .label .label-disc } Discussion 1":
           "**GROUP1 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :
           
       - date: 2022-10-5
         events:
-          "**LEC 6 Son**{: .label .label-lecture } [Simple Linear Regression](recourses/lecture/lec06_son.pdf)":
-          "**LEC 6 Mahdi**{: .label .label-lecture } Simple Linear Regression":
+          "**LEC 6 Son**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec06_son.pdf)":
+          "**LEC 6 Mahdi**{: .label .label-lecture } [Gradient Descent, Convexity](resources/lecture/lec06_mahdi.pdf)":
       
       - date: 2022-10-7
         events:
