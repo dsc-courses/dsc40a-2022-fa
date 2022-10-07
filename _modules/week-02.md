@@ -23,7 +23,7 @@
       - date: 2022-10-7
         events:
           "**HW1 DUE**{: .label .label-due } Submit before 2pm on Gradescope" :
-          "**LEC 7 Son**{: .label .label-lecture } [Simple Linear Regression Cont](recourses/lecture/lec07_son.pdf)" :
+          "**LEC 7 Son**{: .label .label-lecture } [Simple Linear Regression Cont](resources/lecture/lec07_son.pdf)" :
           "**LEC 7 Mahdi**{: .label .label-lecture }" :
           
             
