@@ -24,7 +24,7 @@
         events:
           "**HW1 DUE**{: .label .label-due } Submit before 2pm on Gradescope" :
           "**LEC 7 Son**{: .label .label-lecture } [Simple Linear Regression Cont](resources/lecture/lec07_son.pdf)" :
-          "**LEC 7 Mahdi**{: .label .label-lecture }[Simple Linear Regression](resources/lecture/lec07_mahdi.pdf)" :
+          "**LEC 7 Mahdi**{: .label .label-lecture }[Convexity, Linear Regression](resources/lecture/lec07_mahdi.pdf), [Annotated](resources/lecture/lec07_mahdi_annotated.pdf)" :
           "**HW2 OUT**{: .label .label-assign } [Homework 2 Write-up](resources/homework/hw2.pdf)":
           
             
