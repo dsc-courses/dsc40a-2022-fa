@@ -13,7 +13,7 @@
           
       - date: 2022-10-12
         events:
-          "**LEC 9 Son**{: .label .label-lecture } ":
+          "**LEC 9 Son**{: .label .label-lecture } [Regression and Linear Algebra](resources/lecture/lec09_son.pdf)":
           "**LEC 9 Mahdi**{: .label .label-lecture }[More Simple Linear Regression](resources/lecture/lec09_mahdi.pdf) ":
 
       - date: 2022-10-13
