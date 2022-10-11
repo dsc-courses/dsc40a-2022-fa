@@ -7,7 +7,7 @@
           "**LEC 8 Son**{: .label .label-lecture } [More Simple Linear Regression](resources/lecture/lec08_son.pdf)":
             
 
-          "**LEC 8 Mahdi**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec08_mahdi.pdf)":
+          "**LEC 8 Mahdi**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec08_mahdi.pdf), [Annotated](resources/lecture/lec08_mahdi_annotated.pdf)":
           "**DISCUSSION 2**{: .label .label-disc } Discussion 2":
           "**GROUP2 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :
           
