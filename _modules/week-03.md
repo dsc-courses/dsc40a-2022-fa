@@ -18,7 +18,7 @@
 
       - date: 2022-10-13
         events:
-          "**Group3 OUT**{: .label .label-assign } Groupwork 3 Write-up":
+          "**Group3 OUT**{: .label .label-assign } [Groupwork 3 Write-up](resources/groupwork/gw3.pdf)":
       
       - date: 2022-10-14
         events:
