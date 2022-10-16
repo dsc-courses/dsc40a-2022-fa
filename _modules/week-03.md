@@ -25,7 +25,7 @@
           "**HW2 DUE**{: .label .label-due } Submit before 2pm on Gradescope" :
           "**LEC 10 Son**{: .label .label-lecture } [Regression and Linear Algebra Cont.](resources/lecture/lec10_son.pdf)" :
           "**LEC 10 Mahdi**{: .label .label-lecture }[Linear Algebra and Regression](resources/lecture/lec10_mahdi.pdf), [Annotated](resources/lecture/lec10_mahdi_annotated.pdf)" : "[C2, P9-13](resources/notes/notes_chapter_2.pdf#page=9)"
-          "**HW3 OUT**{: .label .label-assign } Homework 3 Write-up":
+          "**HW3 OUT**{: .label .label-assign } [Homework 3 Write-up](resources/homework/hw3.pdf)":
           
             
 ---
