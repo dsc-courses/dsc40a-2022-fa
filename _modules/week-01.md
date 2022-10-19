@@ -6,12 +6,12 @@
         events:
           "**LEC 2 Son**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lecture/lec02_son.pdf), [Annotated](resources/lecture/lec02_son_annotated.pdf)":
             "[C1, P5-9](resources/notes/notes_chapter_1.pdf#page=5)"
-          "**LEC 2 Mahdi**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lecture/lec02_mahdi.pdf), [Annotated](resources/lecture/lec02_mahdi_annotated.pdf)":
+          "**LEC 2 Mahdi**{: .label .label-lecture } [Minimizing Mean Absolute Error](resources/lecture/lec02_mahdi.pdf), [Annotated](resources/lecture/lec02_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec02/lec02.ipynb)":
             "[C1, P5-9](resources/notes/notes_chapter_1.pdf#page=5)"
       - date: 2022-9-28
         events:
           "**LEC 3 Son**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_son.pdf), [Annotated](resources/lecture/lec03_son_annotated.pdf)": 
-          "**LEC 3 Mahdi**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_mahdi.pdf), [Annotated](resources/lecture/lec03_mahdi_annotated.pdf)": "[C1, P9-12](resources/notes/notes_chapter_1.pdf#page=9)"
+          "**LEC 3 Mahdi**{: .label .label-lecture } [MSE and Empirical Risk Minimization](resources/lecture/lec03_mahdi.pdf), [Annotated](resources/lecture/lec03_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec03/lec03.ipynb)": "[C1, P9-12](resources/notes/notes_chapter_1.pdf#page=9)"
       - date: 2022-9-29
         events:
           "**Group1 OUT**{: .label .label-assign } [Groupwork 1 Write-up](/resources/groupwork/gw1.pdf)":

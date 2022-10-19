@@ -14,7 +14,7 @@
       - date: 2022-10-5
         events:
           "**LEC 6 Son**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec06_son.pdf)":
-          "**LEC 6 Mahdi**{: .label .label-lecture } [Gradient Descent, Convexity](resources/lecture/lec06_mahdi.pdf), [Annotated](resources/lecture/lec06_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/dsc40a-2021-fa/lectures/lec05/lec05.ipynb)": "[C1, P16-17](resources/notes/notes_chapter_1.pdf#page=16)"
+          "**LEC 6 Mahdi**{: .label .label-lecture } [Gradient Descent, Convexity](resources/lecture/lec06_mahdi.pdf), [Annotated](resources/lecture/lec06_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec06/lec06.ipynb)": "[C1, P16-17](resources/notes/notes_chapter_1.pdf#page=16)"
 
       - date: 2022-10-6
         events:
