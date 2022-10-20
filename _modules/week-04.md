@@ -4,7 +4,7 @@
     days:
       - date: 2022-10-17
         events:
-          "**LEC 11 Son**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec11_son.pdf)": 
+          "**LEC 11 Son**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec11_son.pdf), [Code](resources/lecture/lec13_son_demo.zip)": 
             
 
           "**LEC 11 Mahdi**{: .label .label-lecture } [Regression and Linear Algebra](resources/lecture/lec11_mahdi.pdf), [Annotated](resources/lecture/lec11_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec11/lec11.ipynb)": "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
