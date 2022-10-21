@@ -18,7 +18,7 @@
 
       - date: 2022-10-20
         events:
-          "**Group4 OUT**{: .label .label-assign } Groupwork 4 Write-up":
+          "**Group4 OUT**{: .label .label-assign } [Groupwork 4 Write-up](resources/groupwork/gw4.pdf)":
       
       - date: 2022-10-21
         events:
