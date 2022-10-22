@@ -14,7 +14,7 @@
       - date: 2022-10-19
         events:
           "**LEC 12 Son**{: .label .label-lecture } [Multiple LR and Feature Engineering Cont](resources/lecture/lec12_son.pdf), [Code](resources/lecture/lec12_son_demo.zip)":
-          "**LEC 12 Mahdi**{: .label .label-lecture }[Multiple Linear Regression and Feature Engineering](resources/lecture/lec12_mahdi.pdf), [Annotated](resources/lecture/lec12_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec12/lec12.ipynb)": "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
+          "**LEC 12 Mahdi**{: .label .label-lecture }[Multiple LR and Feature Engineering](resources/lecture/lec12_mahdi.pdf), [Annotated](resources/lecture/lec12_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec12/lec12.ipynb)": "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
 
       - date: 2022-10-20
         events:
