@@ -25,7 +25,6 @@
           "**HW3 DUE**{: .label .label-due } Submit before 2pm on Gradescope" :
           "**LEC 13 Son**{: .label .label-lecture } [Feature Engineering and Taxonomy of ML](resources/lecture/lec13_son.pdf), [Code](resources/lecture/lec13_son_demo.zip)" :
           "**LEC 13 Mahdi**{: .label .label-lecture }[Feature Engineering](resources/lecture/lec13_mahdi.pdf), [Annotated](resources/lecture/lec13_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec13/lec13.ipynb)" : "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
-          "**HW4 OUT**{: .label .label-assign } Homework 4 Write-up":
           
             
 ---
