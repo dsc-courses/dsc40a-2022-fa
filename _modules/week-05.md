@@ -7,7 +7,7 @@
           "**LEC 14 Son**{: .label .label-lecture } [ML and Clustering](resources/lecture/lec14_son.pdf)": 
             
 
-          "**LEC 14 Mahdi**{: .label .label-lecture } [Feature Engineering, Clustering](resources/lecture/lec14_mahdi.pdf)": 
+          "**LEC 14 Mahdi**{: .label .label-lecture } [Feature Engineering, Clustering](resources/lecture/lec14_mahdi.pdf), [Annotated](resources/lecture/lec14_mahdi_annotated.pdf),  [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec13/lec13.ipynb)": 
           "**DISCUSSION 4**{: .label .label-disc } Discussion 4":
            
           
