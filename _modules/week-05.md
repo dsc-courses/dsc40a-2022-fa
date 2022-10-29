@@ -22,7 +22,7 @@
         events:
           "**Midterm**{: .label .label-exam } Midterm Exam❗":
 
-          "**HW4 OUT**{: .label .label-assign } Homework 4 Write-up":
+          "**HW4 OUT**{: .label .label-assign } [Homework 4 Write-up](resources/homework/hw4.pdf)":
           
             
 ---
