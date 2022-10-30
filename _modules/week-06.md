@@ -6,7 +6,7 @@
         events:
           "**LEC 16 Son**{: .label .label-lecture } [Clustering and Probability](resources/lecture/lec16_son.pdf)": 
           "**LEC 16 Mahdi**{: .label .label-lecture } [TBD]()": 
-          "**DISCUSSION 4**{: .label .label-disc } Discussion 4":
+          "**DISCUSSION 5**{: .label .label-disc } Discussion 5":
            
           
       - date: 2022-11-2
