@@ -14,7 +14,7 @@
       - date: 2022-10-26
         events:
           "**LEC 15 Son**{: .label .label-lecture } [Clustering](resources/lecture/lec15_son.pdf), [Code](resources/lecture/lec15_son_demo.zip)":
-          "**LEC 15 Mahdi**{: .label .label-lecture }[TBD](resources/lecture/lec15_mahdi.pdf)":
+          "**LEC 15 Mahdi**{: .label .label-lecture } Review Session ":
 
 
       
