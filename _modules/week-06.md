@@ -13,8 +13,10 @@
         events:
           "**LEC 17 Son**{: .label .label-lecture } [Midterm Overview](resources/lecture/lec17_son.pdf)":
           "**LEC 17 Mahdi**{: .label .label-lecture }[Introduction to Probability](resources/lecture/lec17_mahdi.pdf)":
-
-
+    
+      - date: 2022-11-3
+        events:
+          "**Group5 OUT**{: .label .label-assign } [Groupwork 5 Write-up](resources/groupwork/gw5.pdf)":
       
       - date: 2022-11-4
         events:
