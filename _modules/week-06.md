@@ -23,7 +23,7 @@
           "**LEC 18 Son**{: .label .label-lecture } [Foundation of Probability](resources/lecture/lec18_son.pdf)":
           "**LEC 18 Mahdi**{: .label .label-lecture } [Conditional Probability](resources/lecture/lec18_mahdi.pdf), [Annotated](resources/lecture/lec18_mahdi_annotated.pdf)":
 
-          "**HW5 OUT**{: .label .label-assign } [Homework 5 Write-up]()":
+          "**HW5 OUT**{: .label .label-assign } [Homework 5 Write-up](resources/homework/hw5.pdf)":
           "**HW4 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :
           
             
