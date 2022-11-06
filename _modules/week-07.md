@@ -22,7 +22,7 @@
       - date: 2022-11-11
         events:
           "**LEC 21 Son**{: .label .label-lecture } [Bayes’ Theorem](resources/lecture/lec21_son.pdf)":
-          "**LEC 21 Mahdi**{: .label .label-lecture } [Conditional Probability](resources/lecture/lec21_mahdi.pdf)":
+          "**LEC 21 Mahdi**{: .label .label-lecture } [TBA](resources/lecture/lec21_mahdi.pdf)":
 
           "**HW6 OUT**{: .label .label-assign } [Homework 6 Write-up](resources/homework/hw6.pdf)":
           "**HW5 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :
