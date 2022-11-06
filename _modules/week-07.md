@@ -7,6 +7,7 @@
           "**LEC 19 Son**{: .label .label-lecture } [Combinatorics](resources/lecture/lec19_son.pdf)": 
           "**LEC 19 Mahdi**{: .label .label-lecture } [TBA](resources/lecture/lec19_mahdi.pdf)": 
           "**DISCUSSION 6**{: .label .label-disc } Discussion 6":
+          "**GROUP5 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" : 
            
           
       - date: 2022-11-9
