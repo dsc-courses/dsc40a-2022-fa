@@ -21,8 +21,8 @@
       
       - date: 2022-11-11
         events:
-          "**LEC 21 Son**{: .label .label-lecture }  N/A (Veteran's Day)":
-          "**LEC 21 Mahdi**{: .label .label-lecture }  N/A (Veteran's Day)":
+          "**LEC  Son**{: .label .label-lecture }  N/A (Veteran's Day)":
+          "**LEC  Mahdi**{: .label .label-lecture }  N/A (Veteran's Day)":
 
           "**HW6 OUT**{: .label .label-assign } [Homework 6 Write-up](resources/homework/hw6.pdf)":
           "**HW5 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" :
