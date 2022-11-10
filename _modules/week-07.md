@@ -13,7 +13,7 @@
       - date: 2022-11-9
         events:
           "**LEC 20 Son**{: .label .label-lecture } [Law of Total Probability](resources/lecture/lec20_son.pdf), [Code](resources/lecture/lec20_son_demo.zip)":
-          "**LEC 20 Mahdi**{: .label .label-lecture }[ More Combinatorics, Law of Total Probability](resources/lecture/lec20_mahdi.pdf), [Annotated](resources/lecture/lec20_mahdi_annotated.pdf)":
+          "**LEC 20 Mahdi**{: .label .label-lecture }[ More Combinatorics, Law of Total Probability](resources/lecture/lec20_mahdi.pdf), [Annotated](resources/lecture/lec20_mahdi_annotated.pdf), [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec20/lec20.ipynb)":
     
       - date: 2022-11-10
         events:
