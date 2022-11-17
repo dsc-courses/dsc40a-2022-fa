@@ -17,7 +17,7 @@
     
       - date: 2022-11-17
         events:
-          "**Group7 OUT**{: .label .label-assign } Groupwork 7 Write-up":
+          "**Group7 OUT**{: .label .label-assign } [Groupwork 7 Write-up](resources/groupwork/gw7.pdf)":
       
       - date: 2022-11-18
         events:
