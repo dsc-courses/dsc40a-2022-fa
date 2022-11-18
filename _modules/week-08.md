@@ -24,7 +24,7 @@
           "**LEC 23 Son**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23_son.pdf)":
           "**LEC 23 Mahdi**{: .label .label-lecture } [ Classification and Conditional Independence](resources/lecture/lec23_mahdi.pdf)":
 
-          "**HW7 OUT**{: .label .label-assign } Homework 7 Write-up":
+          "**HW7 OUT**{: .label .label-assign } [Homework 7 Write-up](resources/homework/hw7.pdf)":
           "**HW6 DUE**{: .label .label-due } Submit before 2:00pm on Gradescope" :
           
             
