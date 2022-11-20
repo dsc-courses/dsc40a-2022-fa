@@ -13,7 +13,7 @@
       - date: 2022-11-16
         events:
           "**LEC 22 Son**{: .label .label-lecture } [Independence and Classification](resources/lecture/lec22_son.pdf)":
-          "**LEC 22 Mahdi**{: .label .label-lecture }[Independence, Conditional Independence](resources/lecture/lec22_mahdi.pdf)":
+          "**LEC 22 Mahdi**{: .label .label-lecture }[Independence, Conditional Independence](resources/lecture/lec22_mahdi.pdf), [Annotated](resources/lecture/lec22_mahdi_annotated.pdf)":
     
       - date: 2022-11-17
         events:
@@ -22,7 +22,7 @@
       - date: 2022-11-18
         events:
           "**LEC 23 Son**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23_son.pdf)":
-          "**LEC 23 Mahdi**{: .label .label-lecture } [ Classification and Conditional Independence](resources/lecture/lec23_mahdi.pdf)":
+          "**LEC 23 Mahdi**{: .label .label-lecture } [ Classification and Conditional Independence](resources/lecture/lec23_mahdi.pdf), [Annotated](resources/lecture/lec23_mahdi_annotated.pdf)":
 
           "**HW7 OUT**{: .label .label-assign } [Homework 7 Write-up](resources/homework/hw7.pdf)":
           "**HW6 DUE**{: .label .label-due } Submit before 2:00pm on Gradescope" :
