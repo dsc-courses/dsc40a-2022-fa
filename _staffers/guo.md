@@ -1,5 +1,5 @@
 ---
-name: Yuxin Guo
+name: Yuxin Zhu
 role: Staff
 pronouns: she/her
 email: y5guo@ucsd.edu 
