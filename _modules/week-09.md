@@ -17,7 +17,7 @@
     
       - date: 2022-11-24
         events:
-          "**Group8 OUT**{: .label .label-assign } [Groupwork 8 Write-up](resources/groupwork/gw8.pdf)":
+          "**HW8 OUT**{: .label .label-assign } [Homework 8 Write-up](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2022-fa&subPath=homeworks/hw08/hw08.ipynb)":
       
 
           
