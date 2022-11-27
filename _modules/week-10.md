@@ -8,7 +8,6 @@
           "**LEC 26 Son**{: .label .label-lecture } [LR and MLE Cont](resources/lecture/lec26_son.pdf)": 
           "**LEC 26 Mahdi**{: .label .label-lecture } [TBA](resources/lecture/lec26_mahdi.pdf)": 
           "**DISCUSSION 9**{: .label .label-disc } Discussion 9":
-          "**GROUP8 DUE**{: .label .label-due } Submit before 11:59pm on Gradescope" : 
            
           
       - date: 2022-11-30
