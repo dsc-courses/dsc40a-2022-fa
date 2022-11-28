@@ -13,7 +13,7 @@
       - date: 2022-11-23
         events:
           "**LEC 25 Son**{: .label .label-lecture } [Logistic Regression and MLE](resources/lecture/lec25_son.pdf)":
-          "**LEC 25 Mahdi**{: .label .label-lecture }[TBA](resources/lecture/lec25_mahdi.pdf)":
+          "**LEC 25 Mahdi**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec24_mahdi.pdf), [Annotated](resources/lecture/lec25_mahdi_annotated.pdf)":
     
       - date: 2022-11-26
         events:

@@ -6,8 +6,8 @@
         events:
           "**HW7 DUE**{: .label .label-due } Submit before 2:00pm on Gradescope" :
           "**LEC 26 Son**{: .label .label-lecture } [LR and MLE Cont](resources/lecture/lec26_son.pdf)": 
-          "**LEC 26 Mahdi**{: .label .label-lecture } [TBA](resources/lecture/lec26_mahdi.pdf)": 
-          "**DISCUSSION 9**{: .label .label-disc } Discussion 9":
+          "**LEC 26 Mahdi**{: .label .label-lecture } [Review](resources/lecture/lec26_mahdi.pdf)": 
+          
            
           
       - date: 2022-11-30
