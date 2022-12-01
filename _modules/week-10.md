@@ -15,6 +15,10 @@
           "**LEC 27 Son**{: .label .label-lecture } [Course summary](resources/lecture/lec27_son.pdf)":
           "**LEC 27 Mahdi**{: .label .label-lecture }[Review](resources/lecture/lec27_mahdi.pdf)":
     
+      - date: 2022-11-30
+        events:
+          "**LEC 28 Son**{: .label .label-lecture } [Review problems](resources/lecture/lec28_son.pdf)":
+          "**LEC 28 Mahdi**{: .label .label-lecture }[TBA](resources/lecture/lec28_mahdi.pdf)":
       
 
           
