@@ -1,6 +1,6 @@
 ---
-    title: Week 9 – Naive Bayes
-    weekNumber: 9
+    title: Week 10 – Last Week!
+    weekNumber: 10
     days:
       - date: 2022-11-28
         events:
