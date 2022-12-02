@@ -13,7 +13,7 @@
       - date: 2022-11-30
         events:
           "**LEC 27 Son**{: .label .label-lecture } [Course summary](resources/lecture/lec27_son.pdf)":
-          "**LEC 27 Mahdi**{: .label .label-lecture }[Review](resources/lecture/lec27_mahdi.pdf)":
+          "**LEC 27 Mahdi**{: .label .label-lecture }[Review](resources/lecture/lec27_mahdi.pdf), [Annotated](resources/lecture/lec27_mahdi_annotated.pdf)":
     
       - date: 2022-12-2
         events:
