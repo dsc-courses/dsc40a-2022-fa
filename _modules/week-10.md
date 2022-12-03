@@ -18,7 +18,7 @@
       - date: 2022-12-2
         events:
           "**LEC 28 Son**{: .label .label-lecture } [Review problems](resources/lecture/lec28_son.pdf)":
-          "**LEC 28 Mahdi**{: .label .label-lecture }[TBA](resources/lecture/lec28_mahdi.pdf)":
+          "**LEC 28 Mahdi**{: .label .label-lecture }[Annotated](resources/lecture/lec28_mahdi_annotated.pdf)":
 
 
       - date: 2022-12-3
