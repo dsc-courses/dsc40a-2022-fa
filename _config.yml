@@ -16,8 +16,8 @@
 title: DSC 40A
 description: DSC 40A, Fall 2022 at UC San Diego
 tagline: Theoretical Foundations of Data Science I
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://dsc40a.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/dsc40a-2022-fa' # the subpath of your site, e.g. /blog
+url: 'https://dsc-courses.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 author: Mahdi Soleymani and Truong Son Hy
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
